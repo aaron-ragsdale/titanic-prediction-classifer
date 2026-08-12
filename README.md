@@ -1,6 +1,6 @@
-# Titanic Survival Prediction: Machine Learning Portfolio Project
+# Titanic Survival Prediction
 
-Welcome to my machine learning project! This repository explores the classic Kaggle Titanic dataset to predict passenger survival using various classification algorithms, comprehensive exploratory data analysis (EDA), and hyperparameter tuning.
+This repository explores the classic Kaggle Titanic dataset to predict passenger survival using various classification algorithms, comprehensive exploratory data analysis (EDA), and hyperparameter tuning.
 
 ## 📁 Project Structure
 
